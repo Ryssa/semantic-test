@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Ryssa/semantic-test/compare/v1.1.0...v1.2.0) (2019-07-22)
+
+
+### Features
+
+* **index:** add aff content. ([488cd18](https://github.com/Ryssa/semantic-test/commit/488cd18))
+
 # [1.1.0](https://github.com/Ryssa/semantic-test/compare/v1.0.0...v1.1.0) (2019-07-22)
 
 
