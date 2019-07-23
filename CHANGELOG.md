@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/Ryssa/semantic-test/compare/v1.5.0...v1.6.0) (2019-07-23)
+
+
+### Features
+
+* **test:** add prepareCmd. ([8a95eae](https://github.com/Ryssa/semantic-test/commit/8a95eae))
+
 # [1.5.0](https://github.com/Ryssa/semantic-test/compare/v1.4.0...v1.5.0) (2019-07-23)
 
 
