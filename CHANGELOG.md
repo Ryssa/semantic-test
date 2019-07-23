@@ -1,3 +1,14 @@
+# [1.4.0](https://github.com/Ryssa/semantic-test/compare/v1.3.0...v1.4.0) (2019-07-23)
+
+
+### Features
+
+* **release:** test here. ([68f4278](https://github.com/Ryssa/semantic-test/commit/68f4278))
+* **test:** add prepareCmd. ([2b769ec](https://github.com/Ryssa/semantic-test/commit/2b769ec))
+* **test:** add prepareCmd. ([cf756dd](https://github.com/Ryssa/semantic-test/commit/cf756dd))
+* **test:** add prepareCmd. ([b6a96c3](https://github.com/Ryssa/semantic-test/commit/b6a96c3))
+* **test:** add prepareCmd. ([e126bc3](https://github.com/Ryssa/semantic-test/commit/e126bc3))
+
 # [1.3.0](https://github.com/Ryssa/semantic-test/compare/v1.2.2...v1.3.0) (2019-07-23)
 
 
