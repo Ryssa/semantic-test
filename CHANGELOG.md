@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Ryssa/semantic-test/compare/v1.2.2...v1.3.0) (2019-07-23)
+
+
+### Features
+
+* **release:** test here. ([6668baa](https://github.com/Ryssa/semantic-test/commit/6668baa))
+
 ## [1.2.2](https://github.com/Ryssa/semantic-test/compare/v1.2.1...v1.2.2) (2019-07-23)
 
 
