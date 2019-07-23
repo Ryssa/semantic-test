@@ -1,3 +1,19 @@
+## [1.2.2](https://github.com/Ryssa/semantic-test/compare/v1.2.1...v1.2.2) (2019-07-23)
+
+
+### Bug Fixes
+
+* **index:** birl gg [release skip]. Relates to [#3](https://github.com/Ryssa/semantic-test/issues/3) ([5b50afe](https://github.com/Ryssa/semantic-test/commit/5b50afe))
+* **index:** birl gg. Relates to [#3](https://github.com/Ryssa/semantic-test/issues/3) ([520b3b1](https://github.com/Ryssa/semantic-test/commit/520b3b1))
+
+## [1.2.1](https://github.com/Ryssa/semantic-test/compare/v1.2.0...v1.2.1) (2019-07-23)
+
+
+### Bug Fixes
+
+* **index:** birl 1. Relates to [#2](https://github.com/Ryssa/semantic-test/issues/2) ([33a708d](https://github.com/Ryssa/semantic-test/commit/33a708d))
+* **index:** birl 2. Relates to [#3](https://github.com/Ryssa/semantic-test/issues/3) ([7d68862](https://github.com/Ryssa/semantic-test/commit/7d68862))
+
 # [1.2.0](https://github.com/Ryssa/semantic-test/compare/v1.1.0...v1.2.0) (2019-07-22)
 
 
