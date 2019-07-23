@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "adjust-version": "npm-run-all adjust-version:*",
+    "adjust-version:main": "rjp package.json version $VERSION"
   },
   "repository": {
     "type": "git",
@@ -19,6 +21,7 @@
   "homepage": "https://github.com/Ryssa/semantic-test#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^3.0.4",
+    "@semantic-release/exec": "^3.3.5",
     "@semantic-release/git": "^7.0.16",
     "semantic-release": "^15.13.18"
   }
