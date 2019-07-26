@@ -1,6 +1,3 @@
 # semantic-test
 
-
-
-
-hello!
+I am a changelog!
