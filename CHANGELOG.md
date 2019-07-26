@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/Ryssa/semantic-test/compare/v1.7.0...v1.8.0) (2019-07-26)
+
+
+### Features
+
+* **index:** add bar content. ([942daa8](https://github.com/Ryssa/semantic-test/commit/942daa8))
+
 # [1.7.0](https://github.com/Ryssa/semantic-test/compare/v1.6.0...v1.7.0) (2019-07-23)
 
 
