@@ -1,3 +1,18 @@
+# Changelog
+
+# [1.10.0](https://github.com/Ryssa/semantic-test/compare/v1.9.0...v1.10.0) (2020-08-13)
+
+
+### Bug Fixes
+
+* import. ([5b974be](https://github.com/Ryssa/semantic-test/commit/5b974be1a97f15cb794f87930b1940c4228cc864))
+
+
+### Features
+
+* setup tests. ([2bebd27](https://github.com/Ryssa/semantic-test/commit/2bebd277d902d7d505699f219498f669154e392e))
+* trigger release test. ([0c51a9c](https://github.com/Ryssa/semantic-test/commit/0c51a9c2bf4f3deeb7afad88f5bed33561e35ad5))
+
 # [1.9.0](https://github.com/Ryssa/semantic-test/compare/v1.8.0...v1.9.0) (2019-07-26)
 
 
