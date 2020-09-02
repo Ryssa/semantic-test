@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.11.0](https://github.com/Ryssa/semantic-test/compare/v1.10.0...v1.11.0) (2020-09-02)
+
+
+### Features
+
+* **slack-bot:** testing release. ([9f8f08e](https://github.com/Ryssa/semantic-test/commit/9f8f08e5b907b6c5ea5f2be9c59f55ab45b96e8a))
+
 # [1.10.0](https://github.com/Ryssa/semantic-test/compare/v1.9.0...v1.10.0) (2020-08-13)
 
 
