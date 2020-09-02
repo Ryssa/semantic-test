@@ -69,6 +69,7 @@ jobs:
           RELEASE_DOCS_AWS_SECRET_ACCESS_KEY_ID: ${{ secrets.RELEASE_DOCS_AWS_SECRET_ACCESS_KEY_ID }}
           RELEASE_DOCS_AWS_BUCKET: ${{ secrets.RELEASE_DOCS_AWS_BUCKET }}
           GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
         run: npm run semantic-release
 
   skip-ci:
