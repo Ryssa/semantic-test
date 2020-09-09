@@ -1,5 +1,13 @@
 # Changelog
 
+# [1.15.0](https://github.com/Ryssa/semantic-test/compare/v1.14.0...v1.15.0) (2020-09-09)
+
+
+### Features
+
+* release test. ([47604ea](https://github.com/Ryssa/semantic-test/commit/47604ea14400f7abfc13afbdc8bb329074f977be))
+* semantic test. ([77f5896](https://github.com/Ryssa/semantic-test/commit/77f5896fefa95e08879bcc357698271d9e0c04ba))
+
 # [1.14.0](https://github.com/Ryssa/semantic-test/compare/v1.13.0...v1.14.0) (2020-09-09)
 
 
