@@ -19,6 +19,6 @@
   "devDependencies": {
     "@carbonaut/release-docs": "git://github.com/carbonaut/release-docs.git#pull/28/head",
     "npm-run-all": "^4.1.5",
-    "semantic-release": "^17.1.1"
+    "semantic-release": "^19.0.3"
   }
 }
